@@ -20,4 +20,4 @@ My custom xmonad scripts, free for anyone to use!!
   
   
   
-Note: if the first thing you see is a black screen do not worry! The panel will take a few seconds to load and at first boot there is no wallpaper
+## Note: if the first thing you see is a black screen do not worry! The panel will take a few seconds to load and at first boot there is no wallpaper
