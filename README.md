@@ -4,6 +4,7 @@ My custom xmonad scripts, free for anyone to use!!
 # Dependencies :
 
   This Config uses tint2 panel so keep that handy
+  /n
   I used alacritty as my default terminal emulator so have alacrity on you
   Keep nitrogen as well for setting the wallpaper etc
   if you are on arch/gentoo or something of that sort you probably need to install firefox
