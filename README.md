@@ -52,6 +52,45 @@ Win + Q -------> refreshes the windows manager
 
 Win + Shift + Q ----------> logs out of xmonad
 
+
+    Win-Shift-c   ------------> Close/kill the focused window
+
+    Win-Space     ------------> Rotate through the available layout algorithms
+
+    Win-Shift-Spac------------> Reset the layouts on the current workSpace to default
+
+    Win-n         ------------> Resize/refresh viewed windows to the correct size
+    
+    Win-Tab       ------------>ove focus to the next window
+
+    Win-Shift-Tab ------------>ove focus to the previous window
+
+    Win-j         ------------>ove focus to the next window
+
+    Win-k         ------------>ove focus to the previous window
+
+    Win-m         ------------>ove focus to the master window
+    
+    Win-Return  -----> Swap the focused window and the master window
+
+    Win-Shift-j -----> Swap the focused window with the next window
+
+    Win-Shift-k -----> Swap the focused window with the previous window
+    
+    Win-h -------> Shrink the master area
+
+    Win-l -------> Expand the master area
+
+    Win-t -------> Push window back into tiling; unfloat and re-tile it,
+
+    Win-comma ----> Increment the number of windows in the master area
+
+    Win-period -------> Deincrement the number of windows in the master area
+
+
+
+
+
 everything else is in the config, just scroll to the very bottom (the xmonad.hs config)
 
 
