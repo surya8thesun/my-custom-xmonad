@@ -40,17 +40,14 @@ really not much.... just clone the repo ( git clone https://github.com/surya8the
 "exec xmonad" to your .xinitrc file then startx, and you should boot into the config
 
 # keyboard shortcuts :
+    
+    Win + Shift + Enter ----------> alacritty
+    
+    Win + P ------> dmenu
 
-Win + Shift + Enter ---> alacritty
+    Win + Q -------> refreshes the windows manager
 
-
-Win + P ------> dmenu
-
-
-Win + Q -------> refreshes the windows manager
-
-
-Win + Shift + Q ----------> logs out of xmonad
+    Win + Shift + Q ----------> logs out of xmonad
 
 
     Win-Shift-c   ------------> Close/kill the focused window
