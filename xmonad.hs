@@ -253,7 +253,7 @@ myStartupHook = return ()
 -- Run xmonad with the settings you specify. No need to modify this.
 --
 main = do
-  xmproc <- spawnPipe "tint2 -c /home/tommyinnit/.config/tint2/tint2rc"
+  xmproc <- spawnPipe "tint2 -c ~/.config/tint2/tint2rc"
   xmproc <- spawnPipe "nitrogen --restore"
   xmonad $ docks defaults
 
